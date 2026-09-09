@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1313651,
       "digest": null,
-      "download_count": 356,
+      "download_count": 362,
       "created_at": "2024-12-01T09:05:09Z",
       "updated_at": "2024-12-01T09:05:09Z",
       "browser_download_url": "https://github.com/itchyny/bed/releases/download/v0.2.8/bed_v0.2.8_darwin_arm64.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1377712,
       "digest": null,
-      "download_count": 429,
+      "download_count": 436,
       "created_at": "2024-12-01T09:05:09Z",
       "updated_at": "2024-12-01T09:05:09Z",
       "browser_download_url": "https://github.com/itchyny/bed/releases/download/v0.2.8/bed_v0.2.8_linux_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1290905,
       "digest": null,
-      "download_count": 378,
+      "download_count": 384,
       "created_at": "2024-12-01T09:05:08Z",
       "updated_at": "2024-12-01T09:05:08Z",
       "browser_download_url": "https://github.com/itchyny/bed/releases/download/v0.2.8/bed_v0.2.8_linux_arm64.tar.gz"
