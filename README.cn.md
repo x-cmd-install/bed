@@ -4,7 +4,7 @@
 
 Binary editor written in Go
 
-[![x-cmd/install — bed Code Quality Monitoring Repo Card](https://repo.x-cmd.io/bed.svg?lang=zh)](https://x-cmd.com/install/bed)
+[![x-cmd/install — bed Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/bed.svg?lang=zh)](https://x-cmd.com/install/bed)
 
 ## 安装
 
@@ -28,9 +28,9 @@ x install bed
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **SAST** (0/10) — no SAST tool detected
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 
 ## 源代码
 
@@ -55,12 +55,12 @@ x install bed
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-10-01 | 3 | 0 | 0 | 1 | 0 | 55 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-10-03 | 3 | 0 | 0 | 1 | 0 | 54 |
 
 ## Release 资产
 
@@ -82,4 +82,4 @@ bed 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260921.yml` · 2026-09-21T04:59:40Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:51:44Z._
