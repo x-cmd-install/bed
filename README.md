@@ -14,13 +14,13 @@ x install bed
 
 ## Code insight
 
-Total: **11,368** lines of code across **52** files in the top 5 languages.
+Total: **11,350** lines of code across **52** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 11,318 | 156 | 981 | 49 |
+| Go | 11,300 | 156 | 982 | 49 |
 | Makefile | 50 | 0 | 14 | 1 |
-| Markdown | 0 | 94 | 24 | 2 |
+| Markdown | 0 | 95 | 25 | 2 |
 
 ## OpenSSF Scorecard
 
@@ -39,8 +39,8 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v0.2.8` (2024-12-01)
-- **Last commit**: 2024-12-01
+- **Latest**: `v0.2.9` (2026-10-24)
+- **Last commit**: 2026-10-24
 - **Assets in release**: 6
 
 ## Popularity
@@ -49,29 +49,29 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 20 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 0 · **Commits**: 915
+- **Releases**: 11 · **Merged PRs**: 20 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 0 · **Commits**: 927
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-11-03 | 1 | 0 | 0 | 1 | 0 | 7 |
+| 30d | 2026-09-25 | 1 | 0 | 0 | 0 | 0 | 12 |
+| last60d | 2026-08-26 | 1 | 0 | 0 | 0 | 0 | 12 |
+| 90d | 2026-07-27 | 1 | 0 | 0 | 0 | 0 | 12 |
+| last180d | 2026-04-28 | 1 | 0 | 0 | 0 | 0 | 12 |
+| 360d | 2025-10-30 | 1 | 0 | 0 | 0 | 0 | 12 |
+| last720d | 2024-11-04 | 2 | 0 | 0 | 1 | 0 | 19 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [bed_v0.2.8_darwin_amd64.zip](https://github.com/itchyny/bed/releases/download/v0.2.8/bed_v0.2.8_darwin_amd64.zip) | 1.3 MiB | `native/darwin/x64` |
-| [bed_v0.2.8_darwin_arm64.zip](https://github.com/itchyny/bed/releases/download/v0.2.8/bed_v0.2.8_darwin_arm64.zip) | 1.3 MiB | `native/darwin/arm64` |
-| [bed_v0.2.8_linux_amd64.tar.gz](https://github.com/itchyny/bed/releases/download/v0.2.8/bed_v0.2.8_linux_amd64.tar.gz) | 1.3 MiB | `native/linux/x64` |
-| [bed_v0.2.8_linux_arm64.tar.gz](https://github.com/itchyny/bed/releases/download/v0.2.8/bed_v0.2.8_linux_arm64.tar.gz) | 1.2 MiB | `native/linux/arm64` |
-| [bed_v0.2.8_windows_amd64.zip](https://github.com/itchyny/bed/releases/download/v0.2.8/bed_v0.2.8_windows_amd64.zip) | 1.2 MiB | `native/win/x64` |
-| [bed_v0.2.8_windows_arm64.zip](https://github.com/itchyny/bed/releases/download/v0.2.8/bed_v0.2.8_windows_arm64.zip) | 1.2 MiB | `native/win/arm64` |
+| [bed_v0.2.9_darwin_amd64.zip](https://github.com/itchyny/bed/releases/download/v0.2.9/bed_v0.2.9_darwin_amd64.zip) | 1.5 MiB | `native/darwin/x64` |
+| [bed_v0.2.9_darwin_arm64.zip](https://github.com/itchyny/bed/releases/download/v0.2.9/bed_v0.2.9_darwin_arm64.zip) | 1.4 MiB | `native/darwin/arm64` |
+| [bed_v0.2.9_linux_amd64.tar.gz](https://github.com/itchyny/bed/releases/download/v0.2.9/bed_v0.2.9_linux_amd64.tar.gz) | 1.5 MiB | `native/linux/x64` |
+| [bed_v0.2.9_linux_arm64.tar.gz](https://github.com/itchyny/bed/releases/download/v0.2.9/bed_v0.2.9_linux_arm64.tar.gz) | 1.4 MiB | `native/linux/arm64` |
+| [bed_v0.2.9_windows_amd64.zip](https://github.com/itchyny/bed/releases/download/v0.2.9/bed_v0.2.9_windows_amd64.zip) | 1.4 MiB | `native/win/x64` |
+| [bed_v0.2.9_windows_arm64.zip](https://github.com/itchyny/bed/releases/download/v0.2.9/bed_v0.2.9_windows_arm64.zip) | 1.3 MiB | `native/win/arm64` |
 
 ## Improve this data
 
@@ -82,4 +82,4 @@ Install metadata for bed lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T04:38:06Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T04:41:00Z._
