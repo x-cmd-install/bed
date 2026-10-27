@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1571802,
       "digest": "sha256:d4e0e5265678a23d367a9eb96d9ed10f8517c39c62296d6266601aaa94aea7e3",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-10-24T14:31:30Z",
       "updated_at": "2026-10-24T14:31:31Z",
       "browser_download_url": "https://github.com/itchyny/bed/releases/download/v0.2.9/bed_v0.2.9_linux_amd64.tar.gz"
