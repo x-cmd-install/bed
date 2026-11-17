@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1566545,
       "digest": "sha256:372b5ff0f4e94c4cfab2021256152c368b96d04fd26dce19b7cb8ffc5d890b5e",
-      "download_count": 33,
+      "download_count": 34,
       "created_at": "2026-10-24T14:31:32Z",
       "updated_at": "2026-10-24T14:31:32Z",
       "browser_download_url": "https://github.com/itchyny/bed/releases/download/v0.2.9/bed_v0.2.9_darwin_amd64.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1571802,
       "digest": "sha256:d4e0e5265678a23d367a9eb96d9ed10f8517c39c62296d6266601aaa94aea7e3",
-      "download_count": 74,
+      "download_count": 75,
       "created_at": "2026-10-24T14:31:30Z",
       "updated_at": "2026-10-24T14:31:31Z",
       "browser_download_url": "https://github.com/itchyny/bed/releases/download/v0.2.9/bed_v0.2.9_linux_amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 1432539,
       "digest": "sha256:b319d87ca33eddb9784cac16e60c8c1c7e049a56ae786084d634fb6d54904420",
-      "download_count": 34,
+      "download_count": 35,
       "created_at": "2026-10-24T14:31:30Z",
       "updated_at": "2026-10-24T14:31:30Z",
       "browser_download_url": "https://github.com/itchyny/bed/releases/download/v0.2.9/bed_v0.2.9_linux_arm64.tar.gz"
