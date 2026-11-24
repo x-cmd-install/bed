@@ -22,16 +22,6 @@ x install bed
 | Makefile | 50 | 0 | 14 | 1 |
 | Markdown | 0 | 95 | 25 | 2 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **4.4 / 10**
-
-评分最低的几项:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/itchyny/bed>
@@ -45,7 +35,7 @@ x install bed
 
 ## 流行度
 
-- **Star**: 1,344 · **Fork**: 51 · **开放 issue**: 14 · **贡献者**: 6
+- **Star**: 1,345 · **Fork**: 51 · **开放 issue**: 14 · **贡献者**: 6
 
 ## 累计统计
 
@@ -55,12 +45,12 @@ x install bed
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-24 | 1 | 0 | 0 | 0 | 0 | 12 |
-| 90d | 2026-08-25 | 1 | 0 | 0 | 0 | 0 | 12 |
-| last180d | 2026-05-27 | 1 | 0 | 0 | 0 | 0 | 12 |
-| 360d | 2025-11-28 | 1 | 0 | 0 | 0 | 0 | 12 |
-| last720d | 2024-12-03 | 1 | 0 | 0 | 1 | 0 | 12 |
+| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-25 | 1 | 0 | 0 | 0 | 0 | 12 |
+| 90d | 2026-08-26 | 1 | 0 | 0 | 0 | 0 | 12 |
+| last180d | 2026-05-28 | 1 | 0 | 0 | 0 | 0 | 12 |
+| 360d | 2025-11-29 | 1 | 0 | 0 | 0 | 0 | 12 |
+| last720d | 2024-12-04 | 1 | 0 | 0 | 1 | 0 | 12 |
 
 ## Release 资产
 
@@ -82,4 +72,4 @@ bed 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261123.yml` · 2026-11-23T07:47:45Z._
+_数据快照: `data/card/261124.yml` · 2026-11-24T10:03:16Z._
